@@ -25,8 +25,8 @@ The feature selection techniques used are:
 
 # CODING AND OUTPUT:
 ```
-NAME : VARNIKA.P
-REFERENCE NO : 212223240170
+NAME : HARISH S
+REFERENCE NO : 212223230072
 ```
 ```
 import pandas as pd
